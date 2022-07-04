@@ -1,5 +1,5 @@
 
-
+#define DEF_DEVICE_NAME RELAYBOARD01
 const char* mqtt_server = "192.168.1.150";
 const char* clientId = "DEF_DEVICE_NAME";
 
