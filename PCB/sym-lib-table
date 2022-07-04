@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "tesy_symlib")(type "KiCad")(uri "${KIPRJMOD}/tesy_symlib.kicad_sym")(options "")(descr ""))
+  (lib (name "dk_Transistors-Bipolar-BJT-Arrays")(type "Legacy")(uri "C:/App/digikey-kicad-library-master/digikey-symbols/dk_Transistors-Bipolar-BJT-Arrays.lib")(options "")(descr "")(disabled))
+)
